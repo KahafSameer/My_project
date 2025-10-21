@@ -7,5 +7,5 @@ class car:
     def describe(self):
         print("there is my new one ",self.brand,"its colour is",self.color,"its a",self.size,"car""it has",self.wheel,"wheel")
 
-mycar=car("BMW","BLACKed","LARGE","4")
+mycar=car("BMW","BLACKed","LARGEed","4")
 mycar.describe()
